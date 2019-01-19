@@ -1,4 +1,4 @@
-package com.gincos.magincome
+package me.gincos.magincome
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4

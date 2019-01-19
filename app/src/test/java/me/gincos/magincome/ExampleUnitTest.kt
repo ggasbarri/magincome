@@ -1,4 +1,4 @@
-package com.gincos.magincome
+package me.gincos.magincome
 
 import org.junit.Test
 
